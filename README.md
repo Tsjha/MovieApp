@@ -1,12 +1,35 @@
-# React + Vite
+# Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+** MovieApp project
+==================
+In this project , tech stack used in HTML,CSS,JS,REACT,TAILWIND CSS from front-end side. 
+We use AppWrite as back-end and TMDB Api for data fetch .
+----
 
-Currently, two official plugins are available:
+Topics used in this project -- for learning purpose are:-
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ## 📋 Features & Development Tasks
 
-## Expanding the ESLint configuration
+- Components
+- Props
+- Styles
+- States and Hooks
+- useEffect Hook
+- React Snippets
+- Tailwind CSS
+- Assets & Styles
+- Develop Header
+- The Movie DB API Integration
+- Develop Movie Card Component
+- Implement Search
+- Optimize Search
+- Trending Movies Feature
+- Show Trending Movies
+- Deploy on Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+--------------------------------------------------------------------------------------------------------
+ ## 🚀 Live Demo
+
+Check out the deployed app on [Vercel](https://movie-app-git-master-tejashwi-satyams-projects.vercel.app/)
